@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>TonicGreens - Natural Immunity Support</title>
+
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+    }
+
+    /* Hero Section */
+    .jumbotron {
+      position: relative;
+      background: url('https://trytonicgreens.cc/includes/img/hero-img-1.png') no-repeat center center;
+      background-size: cover;
+      color: white;
+      padding: 140px 25px;
+      margin-bottom: 0;
+      text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.6);
+    }
+
+    /* Overlay for readability */
+    .jumbotron::before {
+      content: "";
+      position: absolute;
+      top: 0; left: 0;
+      width: 100%; height: 100%;
+      background: rgba(0, 0, 0, 0.45);
+      z-index: 0;
+    }
+
+    .jumbotron h1, 
+    .jumbotron p, 
+    .jumbotron a {
+      position: relative;
+      z-index: 1;
+    }
+
+    /* Buttons */
+    .cta-btn {
+      background-color: #ff5722;
+      color: #fff;
+      padding: 15px 30px;
+      font-size: 18px;
+      border-radius: 5px;
+      display: inline-block;
+      margin-top: 25px;
+      transition: background-color 0.3s ease;
+    }
+
+    .cta-btn:hover {
+      background-color: #e64a19;
+      color: #fff;
+      text-decoration: none;
+    }
+
+    /* Benefit Icons */
+    .benefit-icon {
+      font-size: 50px;
+      color: #4CAF50;
+      margin-bottom: 15px;
+    }
+
+    /* Product Images */
+    .product-img {
+      max-width: 100%;
+      border-radius: 10px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+      margin: 20px 0;
+    }
+
+    /* Review Images */
+    .review-img {
+      width: 80px;
+      height: 80px;
+      border-radius: 50%;
+      margin-bottom: 10px;
+    }
+
+    /* Footer */
+    footer {
+      background: #333;
+      color: #fff;
+      padding: 20px;
+      margin-top: 40px;
+    }
+  </style>
+</head>
+<body>
+
+<!-- Hero Section -->
+<div class="jumbotron text-center">
+  <h1>Boost Your Immunity with TonicGreens</h1>
+  <p>The most expected natural formula for Cold Sores & Immune Support – now available!</p> 
+  <a href="https://604eb641xqj5cza1who9vi2k5v.hop.clickbank.net" target="_blank" class="cta-btn">👉 Get TonicGreens Today</a>
+</div>
+
+<!-- Product Images Section -->
+<div class="container text-center">
+  <h2>See TonicGreens in Action</h2>
+  <div class="row">
+    <div class="col-sm-4">
+      <img src="https://www.tonicgreens.com/assets/product.png" alt="TonicGreens Bottle" class="product-img">
+    </div>
+    <div class="col-sm-4">
+      <img src="https://www.tonicgreens.com/assets/product-bundle.png" alt="TonicGreens Bundle" class="product-img">
+    </div>
+    <div class="col-sm-4">
+      <img src="https://www.tonicgreens.com/assets/ingredients.png" alt="TonicGreens Ingredients" class="product-img">
+    </div>
+  </div>
+</div>
+
+<!-- Benefits Section -->
+<div class="container">
+  <div class="row">
+    <div class="col-sm-4 text-center">
+      <span class="glyphicon glyphicon-leaf benefit-icon"></span>
+      <h3>Natural Ingredients</h3>
+      <p>Made with 57 carefully selected herbs, fruits, and vegetables for maximum immunity support.</p>
+    </div>
+    <div class="col-sm-4 text-center">
+      <span class="glyphicon glyphicon-heart benefit-icon"></span>
+      <h3>Boosts Immunity</h3>
+      <p>Helps your body fight cold sores and other viral threats naturally and effectively.</p>
+    </div>
+    <div class="col-sm-4 text-center">
+      <span class="glyphicon glyphicon-ok-circle benefit-icon"></span>
+      <h3>Trusted & Safe</h3>        
+      <p>Formulated in the USA, GMP certified, and trusted by thousands worldwide.</p>
+    </div>
+  </div>
+
+  <hr>
+
+  <div class="row text-center">
+    <h2>Why Choose TonicGreens?</h2>
+    <p class="lead">Because your health deserves the very best support nature can provide.</p>
+    <a href="https://604eb641xqj5cza1who9vi2k5v.hop.clickbank.net" target="_blank" class="cta-btn">✅ Order Now and Save</a>
+  </div>
+</div>
+
+<!-- Reviews Section -->
+<div class="container-fluid text-center" style="background:#f7f7f7; padding:50px 20px; margin-top:40px;">
+  <h2>Real People, Real Results</h2>
+  <div class="row">
+    <div class="col-sm-4">
+      <img src="https://randomuser.me/api/portraits/women/44.jpg" class="review-img" alt="Customer">
+      <p><em>“I feel stronger and healthier every day. TonicGreens changed my life!”</em></p>
+      <strong>- Sarah K.</strong>
+    </div>
+    <div class="col-sm-4">
+      <img src="https://randomuser.me/api/portraits/men/32.jpg" class="review-img" alt="Customer">
+      <p><em>“Finally, something that works! My immune system feels unstoppable.”</em></p>
+      <strong>- Michael R.</strong>
+    </div>
+    <div class="col-sm-4">
+      <img src="https://randomuser.me/api/portraits/women/65.jpg" class="review-img" alt="Customer">
+      <p><em>“The best investment in my health I’ve ever made.”</em></p>
+      <strong>- Emily T.</strong>
+    </div>
+  </div>
+</div>
+
+<!-- Guarantee Section -->
+<div class="container-fluid text-center" style="background:#f7f7f7; padding:50px 20px; margin-top:40px;">
+  <h2>100% Satisfaction Guaranteed</h2>
+  <p>If you’re not happy with TonicGreens, you’re backed by a full money-back guarantee.</p>
+  <a href="https://604eb641xqj5cza1who9vi2k5v.hop.clickbank.net" target="_blank" class="cta-btn">💚 Try TonicGreens Risk-Free</a>
+</div>
+
+<!-- Footer -->
+<footer class="container-fluid text-center">
+  <p>© 2025 TonicGreens Affiliate Site | Powered by ClickBank</p>
+</footer>
+
+</body>
+</html>
